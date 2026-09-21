@@ -19,7 +19,7 @@ This portfolio documents the labs and technical projects I've completed as I bui
 
 - [Resource Group, Virtual Machine Deployment & RDP](https://github.com/YamilexM/Resource-Group-Virtual-Machine-Deployment-RDP)
 - [Creating and Managing Local Users](https://github.com/YamilexM/Creating-and-Managing-Local-Users/edit/main/README.md)
-- Troubleshooting Network Connectivity
+- [Troubleshooting Network Connectivity](https://github.com/YamilexM/Troubleshooting-Network-Connectivity/blob/main/README.md)
 - Managing Windows Updates
 - Software Installation
 - Print Queue Troubleshooting
