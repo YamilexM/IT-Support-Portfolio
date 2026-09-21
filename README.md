@@ -17,7 +17,7 @@ This portfolio documents the labs and technical projects I've completed as I bui
 
 ## ☁️ Microsoft Azure & IT Support Labs
 
-- Resource Group, Virtual Machine Deployment & RDP
+- [Resource Group, Virtual Machine Deployment & RDP](https://github.com/YamilexM/Resource-Group-Virtual-Machine-Deployment-RDP)
 - [Creating and Managing Local Users](https://github.com/YamilexM/Creating-and-Managing-Local-Users/edit/main/README.md)
 - Troubleshooting Network Connectivity
 - Managing Windows Updates
