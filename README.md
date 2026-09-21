@@ -28,4 +28,4 @@ This portfolio documents the labs and technical projects I've completed as I bui
 
 ## 🎫 Ticketing Systems
 
-- Spiceworks Ticketing System
+- [Spiceworks Ticketing System](https://github.com/YamilexM/Spiceworks-Ticketing-System/blob/main/README.md)
