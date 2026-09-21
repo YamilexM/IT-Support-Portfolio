@@ -23,7 +23,7 @@ This portfolio documents the labs and technical projects I've completed as I bui
 - [Managing Windows Updates](https://github.com/YamilexM/Managing-Windows-Updates/blob/main/README.md)
 - [Software Installation](https://github.com/YamilexM/Software-Installation/blob/main/README.md)
 - Print Queue Troubleshooting
-- Credential Manager & Cache Troubleshooting
+- [Credential Manager & Cache Troubleshooting](https://github.com/YamilexM/Credential-Manager-Cache/blob/main/README.md)
 - PowerShell Administration
 
 ## 🎫 Ticketing Systems
