@@ -6,7 +6,7 @@ This portfolio documents the labs and technical projects I've completed as I bui
 
 ## 🔐 Microsoft Entra ID & Identity Access Management
 
-- Creating Users in Microsoft Entra ID
+- Creating Users in Microsoft Entra ID (https://github.com/YamilexM/Creating-Users-in-Entra-ID/blob/main/README.md)
 - Cloud Provisioning & P2 Licensing
 - Role Assignments
 - Group Assignments
