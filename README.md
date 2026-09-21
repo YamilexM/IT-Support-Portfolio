@@ -11,7 +11,7 @@ This portfolio documents the labs and technical projects I've completed as I bui
 - [Role Assignments](https://github.com/YamilexM/Role-Assignments/blob/main/README.md)
 - [Group Assignments](https://github.com/YamilexM/Group-Assignments/blob/main/README.md)
 - [Identity Lifecycle Management](https://github.com/YamilexM/Identity-Lifecycle-Management/edit/main/README.md)
-- Audit Logs
+- [Audit Logs](https://github.com/YamilexM/Audit-Logs/blob/main/README.md)
 - Sign-In Logs
 - Authentication & MFA
 
