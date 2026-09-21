@@ -24,7 +24,7 @@ This portfolio documents the labs and technical projects I've completed as I bui
 - [Software Installation](https://github.com/YamilexM/Software-Installation/blob/main/README.md)
 - Print Queue Troubleshooting
 - [Credential Manager & Cache Troubleshooting](https://github.com/YamilexM/Credential-Manager-Cache/blob/main/README.md)
-- PowerShell Administration
+- [PowerShell Administration](https://github.com/YamilexM/PowerShell/blob/main/README.md)
 
 ## 🎫 Ticketing Systems
 
