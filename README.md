@@ -21,7 +21,7 @@ This portfolio documents the labs and technical projects I've completed as I bui
 - [Creating and Managing Local Users](https://github.com/YamilexM/Creating-and-Managing-Local-Users/edit/main/README.md)
 - [Troubleshooting Network Connectivity](https://github.com/YamilexM/Troubleshooting-Network-Connectivity/blob/main/README.md)
 - [Managing Windows Updates](https://github.com/YamilexM/Managing-Windows-Updates/blob/main/README.md)
-- Software Installation
+- [Software Installation](https://github.com/YamilexM/Software-Installation/blob/main/README.md)
 - Print Queue Troubleshooting
 - Credential Manager & Cache Troubleshooting
 - PowerShell Administration
