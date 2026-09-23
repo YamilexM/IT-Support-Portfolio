@@ -19,6 +19,7 @@ This portfolio documents the labs and technical projects I've completed as I bui
 
 - [Import Users from Microsoft Entra ID to Okta](https://github.com/YamilexM/Import-Users-from-Entra-ID-to-Okta-Environment)
 - [Enrollment Provisioning in Okta](https://github.com/YamilexM/Enrollment-Provisioning-in-Okta/blob/main/README.md)
+- [Creating Users in Okta Manually](https://github.com/YamilexM/Creating-Users-in-Okta-Manually/blob/main/README.md)
 
 ## ☁️ Microsoft Azure & IT Support Labs
 
