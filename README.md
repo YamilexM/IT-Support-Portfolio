@@ -15,6 +15,10 @@ This portfolio documents the labs and technical projects I've completed as I bui
 - [Sign-In Logs](https://github.com/YamilexM/Sign-In-Logs/blob/main/README.md)
 - [Authentication & MFA](https://github.com/YamilexM/Authentication/blob/main/README.md)
 
+## 🔐 Okta & Identity Access Management
+
+- [Import Users from Microsoft Entra ID to Okta](https://github.com/YamilexM/Import-Users-from-Entra-ID-to-Okta-Environment)
+
 ## ☁️ Microsoft Azure & IT Support Labs
 
 - [Resource Group, Virtual Machine Deployment & RDP](https://github.com/YamilexM/Resource-Group-Virtual-Machine-Deployment-RDP)
