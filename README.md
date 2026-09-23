@@ -23,7 +23,7 @@ This portfolio documents the labs and technical projects I've completed as I bui
 - [Add Attributes to User Profiles](https://github.com/YamilexM/Add-Attributes-to-User-Profiles/blob/main/README.md)
 - [Creating Groups in Okta Environment](https://github.com/YamilexM/Creating-Groups-in-Okta-Environment/blob/main/README.md)
 - [Attribute-Based Access Control (ABAC) - Rules](https://github.com/YamilexM/Attribute-Based-Access-Control-ABAC---Rules/blob/main/README.md)
-
+- [Audit Logs](https://github.com/YamilexM/Audit-Logs-in-Okta/blob/main/README.md)
 
 ## ☁️ Microsoft Azure & IT Support Labs
 
