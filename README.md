@@ -15,12 +15,15 @@ This portfolio documents the labs and technical projects I've completed as I bui
 - [Sign-In Logs](https://github.com/YamilexM/Sign-In-Logs/blob/main/README.md)
 - [Authentication & MFA](https://github.com/YamilexM/Authentication/blob/main/README.md)
 
-## 🔐 Okta & Identity Access Management
+## 🔑 Okta & Identity Access Management
 
 - [Import Users from Microsoft Entra ID to Okta](https://github.com/YamilexM/Import-Users-from-Entra-ID-to-Okta-Environment)
 - [Enrollment Provisioning in Okta](https://github.com/YamilexM/Enrollment-Provisioning-in-Okta/blob/main/README.md)
 - [Creating Users in Okta Manually](https://github.com/YamilexM/Creating-Users-in-Okta-Manually/blob/main/README.md)
 - [Add Attributes to User Profiles](https://github.com/YamilexM/Add-Attributes-to-User-Profiles/blob/main/README.md)
+- [Creating Groups in Okta Environment](https://github.com/YamilexM/Creating-Groups-in-Okta-Environment/blob/main/README.md)
+- [Attribute-Based Access Control (ABAC) - Rules](https://github.com/YamilexM/Attribute-Based-Access-Control-ABAC---Rules/blob/main/README.md)
+
 
 ## ☁️ Microsoft Azure & IT Support Labs
 
